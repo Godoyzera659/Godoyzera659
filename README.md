@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">🚀 Pedro Godoy | 25 anos.<br>👨‍💻 Estudante do último ano de Engenharia de Software.</h3>
+<h3 align="left">🚀 Pedro Godoy | 26 anos.<br>👨‍💻 Estudante do último ano de Engenharia de Software.</h3>
 
 ###
 
